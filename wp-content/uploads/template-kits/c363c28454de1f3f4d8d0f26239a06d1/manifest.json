@@ -1,0 +1,2187 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Fooditi",
+    "page_builder": "elementor",
+    "kit_version": "1.0.3",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/default-kit.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.tokokoo.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage 01",
+            "screenshot": "screenshots\/homepage-01.jpg",
+            "source": "templates\/homepage-01.json",
+            "preview_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/template-kit\/homepage-01\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage 02",
+            "screenshot": "screenshots\/homepage-02.jpg",
+            "source": "templates\/homepage-02.json",
+            "preview_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/template-kit\/homepage-02\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage 03",
+            "screenshot": "screenshots\/homepage-03.jpg",
+            "source": "templates\/homepage-03.json",
+            "preview_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/template-kit\/homepage-03\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage 04",
+            "screenshot": "screenshots\/homepage-04.jpg",
+            "source": "templates\/homepage-04.json",
+            "preview_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/template-kit\/homepage-04\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 01 - Store",
+            "screenshot": "screenshots\/page-01-store.jpg",
+            "source": "templates\/page-01-store.json",
+            "preview_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/template-kit\/page-01-store\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 02 - Menu",
+            "screenshot": "screenshots\/page-02-menu.jpg",
+            "source": "templates\/page-02-menu.json",
+            "preview_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/template-kit\/page-02-menu\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 03 - Services",
+            "screenshot": "screenshots\/page-03-services.jpg",
+            "source": "templates\/page-03-services.json",
+            "preview_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/template-kit\/page-03-services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 04 - About",
+            "screenshot": "screenshots\/page-04-about.jpg",
+            "source": "templates\/page-04-about.json",
+            "preview_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/template-kit\/page-04-about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 05 - FAQ",
+            "screenshot": "screenshots\/page-05-faq.jpg",
+            "source": "templates\/page-05-faq.json",
+            "preview_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/template-kit\/page-05-faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 06 - Contact",
+            "screenshot": "screenshots\/page-06-contact.jpg",
+            "source": "templates\/page-06-contact.json",
+            "preview_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/template-kit\/page-06-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Theme Builder \u2013 Footer (Elementor Pro)",
+            "screenshot": "screenshots\/theme-builder-footer-elementor-pro-.jpg",
+            "source": "templates\/theme-builder-footer-elementor-pro-.json",
+            "preview_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/?elementor_library=theme-builder-footer-elementor-pro",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "elementor_pro_required": "1",
+                "include_in_zip": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Theme Builder \u2013 Header (Elementor Pro)",
+            "screenshot": "screenshots\/theme-builder-header-elementor-pro-.jpg",
+            "source": "templates\/theme-builder-header-elementor-pro-.json",
+            "preview_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/?elementor_library=theme-builder-header-elementor-pro",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "elementor_pro_required": "1",
+                "include_in_zip": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.8.5",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/3-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/page-06-contact.json",
+                    "name": "Page 06 - Contact"
+                }
+            ],
+            "filesize": 16080,
+            "dimensions": [
+                1024,
+                576
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cafe-ingredients-hero-image-RPDDRB"
+        },
+        {
+            "filename": "head.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/head.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                }
+            ],
+            "filesize": 144612,
+            "dimensions": [
+                550,
+                545
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bakery-scene-creator-top-view-5CJUW3"
+        },
+        {
+            "filename": "baner2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/baner2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/page-02-menu.json",
+                    "name": "Page 02 - Menu"
+                }
+            ],
+            "filesize": 110391,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/brushetta-or-traditional-spanish-tapas-appetizers-MES4VP8"
+        },
+        {
+            "filename": "baner1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/baner1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                }
+            ],
+            "filesize": 104105,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ice-cream-with-berries-NEZ57AK"
+        },
+        {
+            "filename": "bg-donut2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/bg-donut2-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                }
+            ],
+            "filesize": 14220,
+            "dimensions": [
+                1024,
+                576
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cafe-ingredients-hero-image-RPDDRB"
+        },
+        {
+            "filename": "3.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                },
+                {
+                    "source": "templates\/homepage-04.json",
+                    "name": "Homepage 04"
+                },
+                {
+                    "source": "templates\/page-01-store.json",
+                    "name": "Page 01 - Store"
+                },
+                {
+                    "source": "templates\/page-04-about.json",
+                    "name": "Page 04 - About"
+                }
+            ],
+            "filesize": 8862,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/food-beverages-100-set-icons-pack-2475LDP"
+        },
+        {
+            "filename": "1.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                },
+                {
+                    "source": "templates\/homepage-04.json",
+                    "name": "Homepage 04"
+                }
+            ],
+            "filesize": 11059,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/food-beverages-100-set-icons-pack-2475LDP"
+        },
+        {
+            "filename": "2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                },
+                {
+                    "source": "templates\/homepage-04.json",
+                    "name": "Homepage 04"
+                },
+                {
+                    "source": "templates\/page-01-store.json",
+                    "name": "Page 01 - Store"
+                },
+                {
+                    "source": "templates\/page-04-about.json",
+                    "name": "Page 04 - About"
+                }
+            ],
+            "filesize": 5805,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/food-beverages-100-set-icons-pack-2475LDP"
+        },
+        {
+            "filename": "thumbnail-videos.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/thumbnail-videos-600x238.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/page-04-about.json",
+                    "name": "Page 04 - About"
+                }
+            ],
+            "filesize": 46411,
+            "dimensions": [
+                1024,
+                407
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chef-in-restaurant-kitchen-SLB5X49"
+        },
+        {
+            "filename": "abt.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/abt.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                }
+            ],
+            "filesize": 123267,
+            "dimensions": [
+                510,
+                504
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cafe-ingredients-hero-image-RPDDRB"
+        },
+        {
+            "filename": "bg-menu.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/bg-menu-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                }
+            ],
+            "filesize": 36184,
+            "dimensions": [
+                1024,
+                576
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cafe-ingredients-hero-image-RPDDRB"
+        },
+        {
+            "filename": "a.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/a.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                }
+            ],
+            "filesize": 49721,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cafe-ingredients-hero-image-RPDDRB"
+        },
+        {
+            "filename": "c.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/c.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                }
+            ],
+            "filesize": 48616,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cafe-ingredients-hero-image-RPDDRB"
+        },
+        {
+            "filename": "b.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/b.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                }
+            ],
+            "filesize": 49288,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cafe-ingredients-hero-image-RPDDRB"
+        },
+        {
+            "filename": "testi-bg.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/testi-bg.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                },
+                {
+                    "source": "templates\/homepage-04.json",
+                    "name": "Homepage 04"
+                },
+                {
+                    "source": "templates\/page-06-contact.json",
+                    "name": "Page 06 - Contact"
+                }
+            ],
+            "filesize": 14201,
+            "dimensions": [
+                193,
+                194
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/food-beverages-100-set-icons-pack-2475LDP"
+        },
+        {
+            "filename": "2-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/2-1-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                },
+                {
+                    "source": "templates\/homepage-04.json",
+                    "name": "Homepage 04"
+                },
+                {
+                    "source": "templates\/page-06-contact.json",
+                    "name": "Page 06 - Contact"
+                }
+            ],
+            "filesize": 57809,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/asian-mature-chef-in-the-kitchen-PXSH4U5"
+        },
+        {
+            "filename": "1-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                },
+                {
+                    "source": "templates\/page-04-about.json",
+                    "name": "Page 04 - About"
+                }
+            ],
+            "filesize": 28246,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": " https:\/\/elements.envato.com\/cheerful-young-man-baker-standing-at-bakery-P9476B7"
+        },
+        {
+            "filename": "3-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/3-1-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                },
+                {
+                    "source": "templates\/page-04-about.json",
+                    "name": "Page 04 - About"
+                }
+            ],
+            "filesize": 39969,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-smiling-male-chef-posing-PDEM7CR"
+        },
+        {
+            "filename": "4.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/4-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/page-04-about.json",
+                    "name": "Page 04 - About"
+                }
+            ],
+            "filesize": 67605,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pretty-young-housewife-in-chefs-hat-4QA8D2T"
+        },
+        {
+            "filename": "disc1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/disc1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/homepage-04.json",
+                    "name": "Homepage 04"
+                },
+                {
+                    "source": "templates\/page-01-store.json",
+                    "name": "Page 01 - Store"
+                },
+                {
+                    "source": "templates\/page-02-menu.json",
+                    "name": "Page 02 - Menu"
+                },
+                {
+                    "source": "templates\/page-03-services.json",
+                    "name": "Page 03 - Services"
+                }
+            ],
+            "filesize": 47872,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/belgian-waffles-with-fresh-berries-and-jam-for-NHBEPFY"
+        },
+        {
+            "filename": "disc2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/disc2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/homepage-04.json",
+                    "name": "Homepage 04"
+                },
+                {
+                    "source": "templates\/page-01-store.json",
+                    "name": "Page 01 - Store"
+                },
+                {
+                    "source": "templates\/page-02-menu.json",
+                    "name": "Page 02 - Menu"
+                },
+                {
+                    "source": "templates\/page-03-services.json",
+                    "name": "Page 03 - Services"
+                }
+            ],
+            "filesize": 61661,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/tartalets-5CXRPTK"
+        },
+        {
+            "filename": "1-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/1-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/homepage-04.json",
+                    "name": "Homepage 04"
+                },
+                {
+                    "source": "templates\/page-01-store.json",
+                    "name": "Page 01 - Store"
+                },
+                {
+                    "source": "templates\/page-02-menu.json",
+                    "name": "Page 02 - Menu"
+                },
+                {
+                    "source": "templates\/page-03-services.json",
+                    "name": "Page 03 - Services"
+                }
+            ],
+            "filesize": 78503,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/kebab-9YX2LRS"
+        },
+        {
+            "filename": "2-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/2-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/homepage-04.json",
+                    "name": "Homepage 04"
+                },
+                {
+                    "source": "templates\/page-01-store.json",
+                    "name": "Page 01 - Store"
+                },
+                {
+                    "source": "templates\/page-02-menu.json",
+                    "name": "Page 02 - Menu"
+                },
+                {
+                    "source": "templates\/page-03-services.json",
+                    "name": "Page 03 - Services"
+                }
+            ],
+            "filesize": 29042,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hot-chocolate-with-whipped-cream-chocolate-drink-WLAN7MY"
+        },
+        {
+            "filename": "3-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/3-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/homepage-04.json",
+                    "name": "Homepage 04"
+                },
+                {
+                    "source": "templates\/page-01-store.json",
+                    "name": "Page 01 - Store"
+                },
+                {
+                    "source": "templates\/page-02-menu.json",
+                    "name": "Page 02 - Menu"
+                },
+                {
+                    "source": "templates\/page-03-services.json",
+                    "name": "Page 03 - Services"
+                }
+            ],
+            "filesize": 60742,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/vegan-buddha-bowl-healthy-lunch-bowl-with-PXA4HJS"
+        },
+        {
+            "filename": "4-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/4-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/homepage-04.json",
+                    "name": "Homepage 04"
+                },
+                {
+                    "source": "templates\/page-01-store.json",
+                    "name": "Page 01 - Store"
+                },
+                {
+                    "source": "templates\/page-02-menu.json",
+                    "name": "Page 02 - Menu"
+                },
+                {
+                    "source": "templates\/page-03-services.json",
+                    "name": "Page 03 - Services"
+                }
+            ],
+            "filesize": 68364,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": " https:\/\/elements.envato.com\/home-made-christmas-cookies-D4SJH3G"
+        },
+        {
+            "filename": "bg-main-bread.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/bg-main-bread-600x323.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                }
+            ],
+            "filesize": 56908,
+            "dimensions": [
+                1024,
+                552
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bakery-scene-creator-top-view-5CJUW3"
+        },
+        {
+            "filename": "b.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/b.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                }
+            ],
+            "filesize": 20448,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bakery-products-collection-3FLC27"
+        },
+        {
+            "filename": "f.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/f.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                }
+            ],
+            "filesize": 17463,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bakery-products-collection-3FLC27"
+        },
+        {
+            "filename": "e.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/e.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                }
+            ],
+            "filesize": 18703,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bakery-products-collection-3FLC27"
+        },
+        {
+            "filename": "d.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/d.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                }
+            ],
+            "filesize": 17416,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bakery-products-collection-3FLC27"
+        },
+        {
+            "filename": "a.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/a.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                }
+            ],
+            "filesize": 20352,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bakery-products-collection-3FLC27"
+        },
+        {
+            "filename": "hm6.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/hm6-600x505.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                },
+                {
+                    "source": "templates\/homepage-04.json",
+                    "name": "Homepage 04"
+                }
+            ],
+            "filesize": 95445,
+            "dimensions": [
+                900,
+                758
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/rustic-loaf-of-bread-R2B3WUD"
+        },
+        {
+            "filename": "hm3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/hm3-600x421.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                }
+            ],
+            "filesize": 88127,
+            "dimensions": [
+                900,
+                631
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/tasty-homemade-buns-PE259RN"
+        },
+        {
+            "filename": "hm1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/hm1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                }
+            ],
+            "filesize": 85909,
+            "dimensions": [
+                500,
+                866
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/bread-PXFGRAK"
+        },
+        {
+            "filename": "hm2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/hm2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                },
+                {
+                    "source": "templates\/page-01-store.json",
+                    "name": "Page 01 - Store"
+                }
+            ],
+            "filesize": 72340,
+            "dimensions": [
+                500,
+                866
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/bread-rolls-P67M54E"
+        },
+        {
+            "filename": "hm5.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/hm5-600x440.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                }
+            ],
+            "filesize": 99055,
+            "dimensions": [
+                999,
+                732
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/couples-enjoying-lunch-at-a-busy-restaurant-PRA665F"
+        },
+        {
+            "filename": "5.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                },
+                {
+                    "source": "templates\/homepage-04.json",
+                    "name": "Homepage 04"
+                }
+            ],
+            "filesize": 20057,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/50-vintage-food-restaurant-badges-logo-SMZ8UL"
+        },
+        {
+            "filename": "4.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                },
+                {
+                    "source": "templates\/homepage-04.json",
+                    "name": "Homepage 04"
+                },
+                {
+                    "source": "templates\/page-01-store.json",
+                    "name": "Page 01 - Store"
+                },
+                {
+                    "source": "templates\/page-04-about.json",
+                    "name": "Page 04 - About"
+                }
+            ],
+            "filesize": 3812,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/food-beverages-100-set-icons-pack-2475LDP"
+        },
+        {
+            "filename": "hm3-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/hm3-1-600x505.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                }
+            ],
+            "filesize": 102823,
+            "dimensions": [
+                900,
+                758
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/tasty-homemade-buns-PE259RN"
+        },
+        {
+            "filename": "b-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/b-1-600x368.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                }
+            ],
+            "filesize": 57374,
+            "dimensions": [
+                1024,
+                628
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bakery-scene-creator-top-view-5CJUW3"
+        },
+        {
+            "filename": "3.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                }
+            ],
+            "filesize": 153582,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bakery-scene-creator-top-view-5CJUW3"
+        },
+        {
+            "filename": "1.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                }
+            ],
+            "filesize": 240556,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bakery-scene-creator-top-view-5CJUW3"
+        },
+        {
+            "filename": "2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                }
+            ],
+            "filesize": 215379,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bakery-scene-creator-top-view-5CJUW3"
+        },
+        {
+            "filename": "hm4-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/hm4-1-600x440.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage 02"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                }
+            ],
+            "filesize": 124542,
+            "dimensions": [
+                999,
+                732
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/different-bread-on-a-rustic-dark-background-PBNKJ9U"
+        },
+        {
+            "filename": "bg-cake.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/bg-cake-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                }
+            ],
+            "filesize": 12711,
+            "dimensions": [
+                1024,
+                576
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cafe-ingredients-hero-image-RPDDRB"
+        },
+        {
+            "filename": "header-2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/header-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                },
+                {
+                    "source": "templates\/page-03-services.json",
+                    "name": "Page 03 - Services"
+                }
+            ],
+            "filesize": 91318,
+            "dimensions": [
+                500,
+                402
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chocolate-brownie-cake-4XESKDL"
+        },
+        {
+            "filename": "4.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                }
+            ],
+            "filesize": 29386,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/muffins-collection-DLMTBY"
+        },
+        {
+            "filename": "3-1.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                }
+            ],
+            "filesize": 31210,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/muffins-collection-DLMTBY"
+        },
+        {
+            "filename": "2-1.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                }
+            ],
+            "filesize": 28199,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/muffins-collection-DLMTBY"
+        },
+        {
+            "filename": "1-1.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                }
+            ],
+            "filesize": 28661,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/muffins-collection-DLMTBY"
+        },
+        {
+            "filename": "3-3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/3-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                }
+            ],
+            "filesize": 25982,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cupcakes-set-PW83TLG"
+        },
+        {
+            "filename": "1-3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/1-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                },
+                {
+                    "source": "templates\/page-02-menu.json",
+                    "name": "Page 02 - Menu"
+                }
+            ],
+            "filesize": 33302,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/muffin-chocolate-cake-isolated-on-white-PCXPSAE"
+        },
+        {
+            "filename": "2-3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/2-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                },
+                {
+                    "source": "templates\/page-04-about.json",
+                    "name": "Page 04 - About"
+                }
+            ],
+            "filesize": 20133,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cupcakes-set-PW83TLG"
+        },
+        {
+            "filename": "Asset-8.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/Asset-8.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                },
+                {
+                    "source": "templates\/page-03-services.json",
+                    "name": "Page 03 - Services"
+                }
+            ],
+            "filesize": 1439,
+            "dimensions": [
+                111,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-set-cooking-line-icons-JVRVCZ"
+        },
+        {
+            "filename": "Asset-10.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/Asset-10.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                },
+                {
+                    "source": "templates\/page-03-services.json",
+                    "name": "Page 03 - Services"
+                },
+                {
+                    "source": "templates\/page-04-about.json",
+                    "name": "Page 04 - About"
+                }
+            ],
+            "filesize": 933,
+            "dimensions": [
+                103,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-set-cooking-line-icons-JVRVCZ"
+        },
+        {
+            "filename": "Asset-11.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/Asset-11.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                },
+                {
+                    "source": "templates\/page-03-services.json",
+                    "name": "Page 03 - Services"
+                }
+            ],
+            "filesize": 1268,
+            "dimensions": [
+                105,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-set-cooking-line-icons-JVRVCZ"
+        },
+        {
+            "filename": "Asset-6.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/Asset-6.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                },
+                {
+                    "source": "templates\/page-03-services.json",
+                    "name": "Page 03 - Services"
+                },
+                {
+                    "source": "templates\/page-04-about.json",
+                    "name": "Page 04 - About"
+                }
+            ],
+            "filesize": 1652,
+            "dimensions": [
+                106,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-set-cooking-line-icons-JVRVCZ"
+        },
+        {
+            "filename": "Asset-2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/Asset-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                },
+                {
+                    "source": "templates\/page-03-services.json",
+                    "name": "Page 03 - Services"
+                }
+            ],
+            "filesize": 1560,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-set-cooking-line-icons-JVRVCZ"
+        },
+        {
+            "filename": "Asset-4.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/Asset-4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                }
+            ],
+            "filesize": 1128,
+            "dimensions": [
+                86,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-set-cooking-line-icons-JVRVCZ"
+        },
+        {
+            "filename": "Asset-5.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/Asset-5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                },
+                {
+                    "source": "templates\/page-03-services.json",
+                    "name": "Page 03 - Services"
+                }
+            ],
+            "filesize": 1037,
+            "dimensions": [
+                120,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-set-cooking-line-icons-JVRVCZ"
+        },
+        {
+            "filename": "Asset-3.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/Asset-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                },
+                {
+                    "source": "templates\/page-04-about.json",
+                    "name": "Page 04 - About"
+                }
+            ],
+            "filesize": 1411,
+            "dimensions": [
+                103,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-set-cooking-line-icons-JVRVCZ"
+        },
+        {
+            "filename": "hm8.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/hm8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                }
+            ],
+            "filesize": 33940,
+            "dimensions": [
+                500,
+                866
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/tasty-chocolate-muffins-sweet-cupcakes-9FECP7C"
+        },
+        {
+            "filename": "hm7-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/hm7-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                }
+            ],
+            "filesize": 52257,
+            "dimensions": [
+                500,
+                589
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/tasty-chocolate-muffins-sweet-cupcakes-TH5DKQV"
+        },
+        {
+            "filename": "hm11.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/hm11-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                },
+                {
+                    "source": "templates\/page-05-faq.json",
+                    "name": "Page 05 - FAQ"
+                }
+            ],
+            "filesize": 80424,
+            "dimensions": [
+                825,
+                550
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/chocolate-muffins-H4JQK7U"
+        },
+        {
+            "filename": "hm12.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/hm12-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage 03"
+                }
+            ],
+            "filesize": 91980,
+            "dimensions": [
+                825,
+                550
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/coffee-chocolate-muffins-for-breakfast-9T8YSRA"
+        },
+        {
+            "filename": "header-1.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/header-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-04.json",
+                    "name": "Homepage 04"
+                },
+                {
+                    "source": "templates\/page-02-menu.json",
+                    "name": "Page 02 - Menu"
+                }
+            ],
+            "filesize": 112270,
+            "dimensions": [
+                559,
+                585
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/donuts-PP3HX6X"
+        },
+        {
+            "filename": "donut2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/donut2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-04.json",
+                    "name": "Homepage 04"
+                }
+            ],
+            "filesize": 264816,
+            "dimensions": [
+                419,
+                409
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/donuts-PRGMC7S"
+        },
+        {
+            "filename": "donut3.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/donut3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-04.json",
+                    "name": "Homepage 04"
+                }
+            ],
+            "filesize": 235925,
+            "dimensions": [
+                412,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/donuts-PRGMC7S"
+        },
+        {
+            "filename": "donut1.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/donut1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-04.json",
+                    "name": "Homepage 04"
+                }
+            ],
+            "filesize": 206946,
+            "dimensions": [
+                399,
+                407
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/donuts-PRGMC7S"
+        },
+        {
+            "filename": "bg-donut-3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/bg-donut-3-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-04.json",
+                    "name": "Homepage 04"
+                }
+            ],
+            "filesize": 14566,
+            "dimensions": [
+                1024,
+                576
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chocolate-sauce-and-shavings-MUEGW85"
+        },
+        {
+            "filename": "danut-4.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/danut-4-600x655.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-04.json",
+                    "name": "Homepage 04"
+                }
+            ],
+            "filesize": 128445,
+            "dimensions": [
+                640,
+                699
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/kitchen-scene-gen-sweets-ZELZEQ"
+        },
+        {
+            "filename": "hm22.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/hm22-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-04.json",
+                    "name": "Homepage 04"
+                }
+            ],
+            "filesize": 92926,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/coffee-cups-and-colorful-donuts-PL98K42"
+        },
+        {
+            "filename": "hm14.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/hm14-600x271.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-04.json",
+                    "name": "Homepage 04"
+                }
+            ],
+            "filesize": 59516,
+            "dimensions": [
+                1024,
+                463
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/professional-chef-W2J5UB7"
+        },
+        {
+            "filename": "bg-single-page.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/bg-single-page-600x368.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-01-store.json",
+                    "name": "Page 01 - Store"
+                },
+                {
+                    "source": "templates\/page-02-menu.json",
+                    "name": "Page 02 - Menu"
+                },
+                {
+                    "source": "templates\/page-03-services.json",
+                    "name": "Page 03 - Services"
+                },
+                {
+                    "source": "templates\/page-04-about.json",
+                    "name": "Page 04 - About"
+                },
+                {
+                    "source": "templates\/page-05-faq.json",
+                    "name": "Page 05 - FAQ"
+                },
+                {
+                    "source": "templates\/page-06-contact.json",
+                    "name": "Page 06 - Contact"
+                }
+            ],
+            "filesize": 58251,
+            "dimensions": [
+                1024,
+                628
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bakery-scene-creator-top-view-5CJUW3"
+        },
+        {
+            "filename": "paris.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/paris.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-01-store.json",
+                    "name": "Page 01 - Store"
+                },
+                {
+                    "source": "templates\/page-06-contact.json",
+                    "name": "Page 06 - Contact"
+                }
+            ],
+            "filesize": 55795,
+            "dimensions": [
+                600,
+                455
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/symbol-of-paris-P8QSWAV"
+        },
+        {
+            "filename": "london.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/london.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-01-store.json",
+                    "name": "Page 01 - Store"
+                },
+                {
+                    "source": "templates\/page-06-contact.json",
+                    "name": "Page 06 - Contact"
+                }
+            ],
+            "filesize": 32387,
+            "dimensions": [
+                600,
+                455
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/las-vegas-and-trump-tower-P93L9JW"
+        },
+        {
+            "filename": "lasvegas.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/lasvegas.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-01-store.json",
+                    "name": "Page 01 - Store"
+                },
+                {
+                    "source": "templates\/page-06-contact.json",
+                    "name": "Page 06 - Contact"
+                }
+            ],
+            "filesize": 37513,
+            "dimensions": [
+                600,
+                455
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/london-at-dusk-PY8RXH8"
+        },
+        {
+            "filename": "bg-mid-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/bg-mid-2-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-01-store.json",
+                    "name": "Page 01 - Store"
+                }
+            ],
+            "filesize": 11900,
+            "dimensions": [
+                1024,
+                576
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cafe-ingredients-hero-image-RPDDRB"
+        },
+        {
+            "filename": "2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-02-menu.json",
+                    "name": "Page 02 - Menu"
+                }
+            ],
+            "filesize": 25719,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/kitchen-scene-gen-sweets-ZELZEQ"
+        },
+        {
+            "filename": "3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-02-menu.json",
+                    "name": "Page 02 - Menu"
+                }
+            ],
+            "filesize": 26228,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/kitchen-scene-gen-sweets-ZELZEQ"
+        },
+        {
+            "filename": "4.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-02-menu.json",
+                    "name": "Page 02 - Menu"
+                }
+            ],
+            "filesize": 16542,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/kitchen-scene-gen-sweets-ZELZEQ"
+        },
+        {
+            "filename": "1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-02-menu.json",
+                    "name": "Page 02 - Menu"
+                }
+            ],
+            "filesize": 25603,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/kitchen-scene-gen-sweets-ZELZEQ"
+        },
+        {
+            "filename": "6.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-02-menu.json",
+                    "name": "Page 02 - Menu"
+                }
+            ],
+            "filesize": 50142,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/kitchen-scene-gen-sweets-ZELZEQ"
+        },
+        {
+            "filename": "5.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-02-menu.json",
+                    "name": "Page 02 - Menu"
+                }
+            ],
+            "filesize": 29939,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/kitchen-scene-gen-sweets-ZELZEQ"
+        },
+        {
+            "filename": "head-img.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/head-img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-03-services.json",
+                    "name": "Page 03 - Services"
+                }
+            ],
+            "filesize": 53325,
+            "dimensions": [
+                600,
+                455
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/citrus-oranges-muffins-TVXFJE3"
+        },
+        {
+            "filename": "cover.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/cover-600x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-03-services.json",
+                    "name": "Page 03 - Services"
+                }
+            ],
+            "filesize": 90254,
+            "dimensions": [
+                1024,
+                640
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/chef-making-and-kneading-fresh-dough-5YGPX9J"
+        },
+        {
+            "filename": "bg-mid.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/bg-mid-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-03-services.json",
+                    "name": "Page 03 - Services"
+                }
+            ],
+            "filesize": 11313,
+            "dimensions": [
+                1024,
+                576
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bakery-scene-creator-top-view-5CJUW3"
+        },
+        {
+            "filename": "img-3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/img-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-03-services.json",
+                    "name": "Page 03 - Services"
+                },
+                {
+                    "source": "templates\/page-04-about.json",
+                    "name": "Page 04 - About"
+                }
+            ],
+            "filesize": 81531,
+            "dimensions": [
+                600,
+                810
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pizza-cooking-ingredients-PVSKV6M"
+        },
+        {
+            "filename": "1-4.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/1-4-600x601.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-04-about.json",
+                    "name": "Page 04 - About"
+                }
+            ],
+            "filesize": 68234,
+            "dimensions": [
+                699,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-chef-using-whisk-ULG4DJX"
+        },
+        {
+            "filename": "Asset-9.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/03\/Asset-9.png",
+            "templates": [
+                {
+                    "source": "templates\/page-04-about.json",
+                    "name": "Page 04 - About"
+                }
+            ],
+            "filesize": 1383,
+            "dimensions": [
+                98,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-set-cooking-line-icons-JVRVCZ"
+        },
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "https:\/\/templatekit.tokokoo.com\/foodkit\/wp-content\/uploads\/sites\/4\/2020\/02\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/theme-builder-footer-elementor-pro-.json",
+                    "name": "Theme Builder \u2013 Footer (Elementor Pro)"
+                },
+                {
+                    "source": "templates\/theme-builder-header-elementor-pro-.json",
+                    "name": "Theme Builder \u2013 Header (Elementor Pro)"
+                }
+            ],
+            "filesize": 3666,
+            "dimensions": [
+                281,
+                53
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
